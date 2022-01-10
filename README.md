@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @irzzuu
 - 👀 I’m interested in  le développement web
 - 🌱 I’m currently learning  les languages HTML et CSS
-- 💞️ I’m looking  une  entreprise pour effecteuer une alternance avec openclassroom
+- Je recherche actuellement une entreprise pour effectuer une alternance d'un an avec l'ecole OpenClassroom
 - 📫 How to reach me  via mon site portfolio : http://adelyneberbin.fr/
 
 <!---
